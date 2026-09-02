@@ -9,3 +9,4 @@ Date,Product,Sales,Revenue
 2026-01-04,Monitor,8,4000
 2026-01-05,Keyboard,25,2500
 2026-01-05,Mouse,60,3000
+2026-01-05,Mouse,60,3000
